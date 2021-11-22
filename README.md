@@ -1,0 +1,2 @@
+# c-study
+# mainly Pointer
